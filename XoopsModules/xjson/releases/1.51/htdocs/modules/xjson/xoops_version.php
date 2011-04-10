@@ -26,8 +26,8 @@
 
 
 $modversion['name']		    	= 'X-JSON Server';
-$modversion['version']			= 1.42;
-$modversion['releasedate'] 		= "Tues: 09 October 2010";
+$modversion['version']			= 1.51;
+$modversion['releasedate'] 		= "Saturday: 26 March 2011";
 $modversion['status'] 			= "Mature";
 $modversion['author'] 			= "Chronolabs Australia";
 $modversion['credits'] 			= "Simon Roberts";
@@ -43,15 +43,9 @@ $modversion['dirname']			= 'xjson';
 $modversion['sqlfile']['mysql'] = "sql/mysql.sql";
 
 $modversion['author_realname'] = "Simon Roberts";
-$modversion['author_website_url'] = "http://www.chronolabs.org.au";
-$modversion['author_website_name'] = "Chronolabs International";
-$modversion['author_email'] = "simon@chronolabs.org.au";
-$modversion['demo_site_url'] = "";
-$modversion['demo_site_name'] = "";
-$modversion['support_site_url'] = "http://www.chronolabs.org.au/forums/x-json/0,10,0,0,100,0,DESC,0";
-$modversion['support_site_name'] = "x-json";
-$modversion['submit_bug'] = "http://www.chronolabs.org.au/forums/x-json/0,10,0,0,100,0,DESC,0";
-$modversion['submit_feature'] = "http://www.chronolabs.org.au/forums/x-json/0,10,0,0,100,0,DESC,0";
+$modversion['author_website_url'] = "http://www.chronolabs.coop";
+$modversion['author_website_name'] = "Chronolabs Co-Op";
+$modversion['author_email'] = "simon@chronolabs.coop";
 $modversion['usenet_group'] = "sci.chronolabs";
 $modversion['maillist_announcements'] = "";
 $modversion['maillist_bugs'] = "";
